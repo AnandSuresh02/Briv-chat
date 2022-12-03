@@ -27,8 +27,8 @@
 }
 
 .active_btn{
-    color:  #F18303;
-    border-bottom: 2px solid #F18303;
+    color:  #00d9ff;
+    border-bottom: 2px solid #00d9ff;
     padding-bottom: .4rem;
 }
 
@@ -43,7 +43,7 @@
     border: none;
     border-radius: .5rem;
     font-size: 1.1rem;
-    color: #F18303;
+    color: #00d9ff;
     font-weight: 700;
     cursor: pointer;
 

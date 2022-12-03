@@ -12,7 +12,7 @@
 
 .Model_box_right h1{
     font-size: 3rem;
-    color: #F18303;
+    color: #00d9ff;
     line-height: .9;
 }
 
@@ -23,7 +23,7 @@
 
 .Model_box_right small{
     font-size: 1.2rem;
-    color: #F18303;
+    color: #00d9ff;
 }
 
 .Model_box_right_name_info{
@@ -42,7 +42,7 @@
     background-color: transparent;
     outline: none;
     border: none;
-    color: #F18303;
+    color: #00d9ff;
 }
 
 .Model_box_right_name_btn{
@@ -54,7 +54,7 @@
 .Model_box_right_name_btn button{
     outline: none;
     border: none;
-    color: #F18303;
+    color: #00d9ff;
     font-size: 1.2rem;
     font-weight: 700;
     text-transform: uppercase;

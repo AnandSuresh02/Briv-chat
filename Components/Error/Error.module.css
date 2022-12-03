@@ -9,9 +9,9 @@
     border-radius: 1rem;
     padding: 2rem;
     border-radius: 50px;
-    background: #F18303;
-    box-shadow: 5px 5px 10px #cd6f03,
-    -5px -5px 10px #ff9703
+    background: #00d9ff;
+    box-shadow: 5px 5px 10px #037ccd,
+    -5px -5px 10px #00d9ff
 }
 
 @media only screen and (max-width: 35em) {

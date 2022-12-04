@@ -1,7 +1,7 @@
 
 # BrivApp
 
-An completely decentralised chatting application that focuses on privacy and security of the users. 
+A completely decentralised chatting application that focuses on privacy and security of the users. 
 
 
 ## Features
